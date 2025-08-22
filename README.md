@@ -240,29 +240,7 @@ If you encounter issues:
 3. Try the alternative methods
 4. Open an issue with detailed information
 
-## 🔗 Related Mobile Security Tools & Resources
-
-### Frida Ecosystem
-- [Frida Dynamic Instrumentation Toolkit](https://frida.re/) - Official Frida framework for runtime manipulation
-- [Objection Mobile Security Assessment](https://github.com/sensepost/objection) - Runtime mobile app security assessment toolkit
-- [Frida CodeShare](https://codeshare.frida.re/) - Community repository of Frida scripts
-
-### SSL/TLS Security Testing
-- [Android SSL TrustKiller](https://github.com/iSECPartners/Android-SSL-TrustKiller) - Cydia Substrate SSL bypass
-- [Universal Android SSL Pinning Bypass](https://github.com/ac-pm/SSLKillSwitch) - Multiple app SSL bypass
-
-### Mobile Application Security
-- [MobSF Mobile Security Framework](https://mobsf.github.io/docs/) - Automated mobile app security testing
-- [Drozer Android Security Assessment](https://github.com/FSecureLABS/drozer) - Android app security testing framework
-- [QARK Quick Android Review Kit](https://github.com/linkedin/qark) - Android app vulnerability scanner
-
-### Network Analysis & Interception
-- [Burp Suite Mobile Assistant](https://portswigger.net/burp/documentation/desktop/mobile) - Mobile app security testing with Burp
-- [OWASP ZAP Proxy](https://owasp.org/www-project-zap/) - Open-source web application security scanner
-- [Charles Proxy](https://www.charlesproxy.com/) - HTTP proxy for mobile app debugging
-- [Wireshark Network Analyzer](https://www.wireshark.org/) - Network protocol analyzer for traffic inspection
-
-## 📄 License
+##  License
 
 This project is released under the MIT License. See [LICENSE](LICENSE) for details.
 
@@ -276,7 +254,7 @@ This project is released under the MIT License. See [LICENSE](LICENSE) for detai
 - **GitHub Portfolio**: [@riyadmondol2006](https://github.com/riyadmondol2006) - Mobile security tools & reverse engineering projects
 - **Professional Website**: [riyadm.com](https://riyadm.com) - Cybersecurity consulting & mobile app security services  
 - **Reverse Engineering Blog**: [reversesio.com](http://reversesio.com/) - Advanced mobile security research & tutorials
-- **Telegram Community**: [@riyadmondol2006](https://t.me/riyadmondol2006) - Mobile security discussions & support
+- **Telegram Direct Contact**: [@riyadmondol2006](https://t.me/riyadmondol2006) - Direct message for support & inquiries
 - **YouTube Channel**: [@reversesio](https://www.youtube.com/@reversesio) - Mobile security tutorials & live demonstrations
 
 ### 🏆 Expertise Areas
